@@ -13,9 +13,9 @@ This repo contains a set of rules that the team finds important enough to discus
 
 ## High-level repo facts
 1. Members of my team are expected to:
-    1. Familiarize theirselves with this documentation
-    1. Propose new ideas and improvements when they :lightbulb:
-    1. Adhere to the rules defined within this repo
+    * Familiarize theirselves with this documentation
+    * Propose new ideas and improvements when they :lightbulb:
+    * Adhere to the rules defined within this repo
 1. You are a respected member of this team, if you'd like to participate.  Let's make this the best team we possibly can.
 1. This team agreement is intended to be used across any / all repos that I am collaborating with others on.  Creating a standard process will make it smoother to contribute across multiple projects.
 1.  This format looks like trash now.  Feel free to improve it, or I'll get to it at some point.  :) 
@@ -24,6 +24,8 @@ This repo contains a set of rules that the team finds important enough to discus
 With a single or very small number of engineers working in these repos, we should strive to make the process as friction-free as possible.  There may be steps we can take out of the process that provide good value with minimum risk (especially for systems that are not in production yet, etc).  This comes with the caveat that when, inevitably, someone fucks it up for everyone, then we can't have nice things anymore and this section will need to be be amended.
 
 This section contains the 2 Fast 2 Furious set of rules intended to help us move as fast as possible.
+
+WARNING : In most cases (or all cases if you prefer), it's better to just follow the standard process.  These rules are not recommendations.  They're giving you the ability to skip some redundant steps when it's clear that they don't add value.
 1. Fuck applying labels (see next section) if you're working on something that you:
     * Are confident you will complete during your current work session
     * Don't think they will add value (but it should be very obvious that it won't or we'll have to change this)
