@@ -44,3 +44,5 @@ Just as we would in Jira during a normal sprint at work, we should apply labels 
 This image shows the current labels, and each have a description next to them.  If anything is unclear please open an issue.
 ![Initial Proposed List of Github Issue Labels](docs/images/githubLabels10132019.png)
 
+Please make sure to `Close` an Issue when the work is done and the PR (if applicable) is merged.  
+
