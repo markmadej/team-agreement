@@ -6,6 +6,7 @@ I've reached the point where:
 1. I feel that, in theory, I could build an app (or any project) from scratch and do all of the work myself.
 1. I know in reality that if I want to build anything of serious complexity, I'll need to rely on others to help.
 1. I know that even very small teams work much better with a clear, understood, and evolvable set of rules.
+1. I have been on a team that tried to create a team agreement and failed due to bad attitudes, and that was frustrating.  We can do better.  
 1. I know that I will gain value from this even as a 1 person team.  
 
 This repo contains a set of rules that the team finds important enough to discuss and adhere to.  This will include guidelines on process (how issues are created, what steps they flow through, etc).  There may be some technology-specific things, there will be more general things.  Whatever the team finds to be relevant and important will be included within this repo.  Anything defined in this repo should welcome a challenge or question from a team member, and anything can be changed via PR.  
