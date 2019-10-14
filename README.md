@@ -41,10 +41,10 @@ WARNING : In most cases (or all cases if you prefer), it's better to just follow
 We will use Github Issues to track ideas and things we are working on.  It's free, it's integrated into Github, it's simple.  
 
 ### Labels
-Just as we would in Jira during a normal sprint at work, we should apply labels (equivalent to Jira status) to each item.  
+Just as we would in Jira during a normal sprint at work, we should apply labels (equivalent to Jira status) to each item.  This is a comprehensive list of each label, its purpose, and its color (a little extreme but it will be nice to have consistency across repos).
 
-This image shows the current labels, and each have a description next to them.  If anything is unclear please open an issue.
-![Initial Proposed List of Github Issue Labels](docs/images/githubLabels10132019.png)
-
+* **Blocked** : This item is blocked for some reason (see comments).  ![#FF0000](https://placehold.it/15/ff0000/000000?text=+)
 Please make sure to `Close` an Issue when the work is done and the PR (if applicable) is merged.  
 
+### Markdown
+[Markdown](https://www.markdownguide.org/basic-syntax/) should be our standard for documentation syntax across all repos (if possible). 
