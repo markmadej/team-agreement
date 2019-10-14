@@ -43,8 +43,11 @@ We will use Github Issues to track ideas and things we are working on.  It's fre
 ### Labels
 Just as we would in Jira during a normal sprint at work, we should apply labels (equivalent to Jira status) to each item.  This is a comprehensive list of each label, its purpose, and its color (a little extreme but it will be nice to have consistency across repos).
 
-* **Blocked** : This item is blocked for some reason (see comments).  ![#FF0000](https://placehold.it/15/ff0000/000000?text=+)
+* **Blocked** : This item is blocked for some reason (see comments).  ![#FF0000](https://placehold.it/15/ff0000/000000?text=+) `#FF0000`
+* **In Progress** : This item is actively being worked on.  ![#00FF00](https://placehold.it/15/00ff00/000000?text=+) `#00FF00`
+* **Needs Grooming** : This issue requires more grooming before work can begin.  ![#E0E0E0](https://placehold.it/15/e0e0e0/000000?text=+) `#E0E0E0`
+* **Ready For Dev** : This issue has well-defined AC and is ready for dev work. ![#3333FF](https://placehold.it/15/3333ff/000000?text=+) `#3333FF`
 Please make sure to `Close` an Issue when the work is done and the PR (if applicable) is merged.  
-
+* **Ready For Review** : This item has a PR that is ready for review. ![#009900](https://placehold.it/15/009900/000000?text=+) `#009900`
 ### Markdown
 [Markdown](https://www.markdownguide.org/basic-syntax/) should be our standard for documentation syntax across all repos (if possible). 
