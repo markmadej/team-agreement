@@ -18,3 +18,12 @@ This repo contains a set of rules that the team finds important enough to discus
 1. You are a respected member of this team, if you'd like to participate.  Let's make this the best team we possibly can.
 1. This team agreement is intended to be used across any / all repos that I am collaborating with others on.  Creating a standard process will make it smoother to contribute across multiple projects.
 1.  This format looks like trash now.  Feel free to improve it, or I'll get to it at some point.  :) 
+
+## Github Issues, and labels to help track our progress
+We will use Github Issues to track ideas and things we are working on.  It's free, it's integrated into Github, it's simple.  
+
+### Labels
+Just as we would in Jira during a normal sprint at work, we should apply labels (equivalent to Jira status) to each item.  
+
+This image shows the current labels, and each have a description next to them.  If anything is unclear please open an issue.
+![Initial Proposed List of Github Issue Labels](docs/images/githubLabels10132019.png)
