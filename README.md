@@ -20,6 +20,21 @@ This repo contains a set of rules that the team finds important enough to discus
 1. This team agreement is intended to be used across any / all repos that I am collaborating with others on.  Creating a standard process will make it smoother to contribute across multiple projects.
 1.  This format looks like trash now.  Feel free to improve it, or I'll get to it at some point.  :) 
 
+## 2 Fast 2 Furious
+With a single or very small number of engineers working in these repos, we should strive to make the process as friction-free as possible.  There may be steps we can take out of the process that provide good value with minimum risk (especially for systems that are not in production yet, etc).  This comes with the caveat that when, inevitably, someone fucks it up for everyone, then we can't have nice things anymore and this section will need to be be amended.
+
+This section contains the 2 Fast 2 Furious set of rules intended to help us move as fast as possible.
+1. Fuck applying labels (see next section) if you're working on something that you:
+    * Are confident you will complete during your current work session
+    * Don't think they will add value (but it should be very obvious that it won't or we'll have to change this)
+1. Go ahead and commit directly to master for non-controversial documentation changes.  
+    * Howevever, please add a short commit note that you specifically thought about this and didn't think it was necessary.
+1. Go ahead and commit directly to master for non-controversial and fully-functional code changes.
+    * This will be one of the first rules we probably need to change.  But who knows, if we're all super responsible, then maybe not.
+    * This situation would include:
+        * You believe you are a smart enough engineer to make this decision, knowing that this privilege will be taken away as soon as someone fucks it up.
+        * This is not intended to be done as a standard everyday process, but I think it will be useful to get things moving fast.
+
 ## Github Issues, and labels to help track our progress
 We will use Github Issues to track ideas and things we are working on.  It's free, it's integrated into Github, it's simple.  
 
@@ -28,3 +43,4 @@ Just as we would in Jira during a normal sprint at work, we should apply labels 
 
 This image shows the current labels, and each have a description next to them.  If anything is unclear please open an issue.
 ![Initial Proposed List of Github Issue Labels](docs/images/githubLabels10132019.png)
+
