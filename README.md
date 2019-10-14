@@ -47,8 +47,8 @@ Just as we would in Jira during a normal sprint at work, we should apply labels 
 * ![#E0E0E0](https://placehold.it/15/e0e0e0/000000?text=+) `#E0E0E0` **Needs Grooming** : This issue requires more grooming before work can begin.  
 * ![#3333FF](https://placehold.it/15/3333ff/000000?text=+) `#3333FF` **Ready For Dev** : This issue has well-defined AC and is ready for dev work. 
 * ![#00FF00](https://placehold.it/15/00ff00/000000?text=+) `#00FF00` **In Progress** : This issue is actively being worked on.  
-* ![#009900](https://placehold.it/15/009900/000000?text=+) `#009900` **Ready For Review** : This issue has a PR that is ready for review. 
-* ![#009900](https://placehold.it/15/009900/000000?text=+) `#009900` **Closed** : This issue has been closed (see comment for resolution details).
+* ![#FF9933](https://placehold.it/15/ff9933/000000?text=+) `#FF9933` **Ready For Review** : This issue has a PR that is ready for review. 
+* ![#000000](https://placehold.it/15/000000/000000?text=+) `#000000` **Closed** : This issue has been closed (see comment for resolution details).
  
 ### Markdown
 [Markdown](https://www.markdownguide.org/basic-syntax/) should be our standard for documentation syntax across all repos (if possible). 
