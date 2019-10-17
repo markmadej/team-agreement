@@ -20,6 +20,11 @@ This repo contains a set of rules that the team finds important enough to discus
 1. This team agreement is intended to be used across any / all repos that I am collaborating with others on.  Creating a standard process will make it smoother to contribute across multiple projects.
 1.  This format looks like trash now.  Feel free to improve it, or I'll get to it at some point.  :) 
 
+## Slack
+We have our own Slack team for communication purposes.
+* [Link to our team in Slack](https://app.slack.com/client/TPKCZLC5D/CPHH6M0F2)
+* [Link to join the team](https://join.slack.com/t/teamsuperalph-5me1488/shared_invite/enQtNzk5MTIwNjczMzQ4LWI2MDc1Y2QyYjFlZTBjNzdmODYyNTkzYzk3ZTNlODg3ODNlNTg3ZmVjZmQyNDU3MWY2MTQ3Y2IzMDg3ZGQyMGU) - will expire on November 16th 2019, need to generate a new link after that or manually invite people via Slack.
+
 ## 2 Fast 2 Furious
 With a single or very small number of engineers working in these repos, we should strive to make the process as friction-free as possible.  There may be steps we can take out of the process that provide good value with minimum risk (especially for systems that are not in production yet, etc).  This comes with the caveat that when, inevitably, someone fucks it up for everyone, then we can't have nice things anymore and this section will need to be be amended.
 
