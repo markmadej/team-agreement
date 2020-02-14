@@ -13,7 +13,7 @@ Your full Github repo URL, ie. `https://github.com/markmadej/team-agreement`
 ### `$$REPLACE$$`
 Generic field that you need to insert content in, of any size.
 
-### `$$AUR`
+### `$$AUR$$`
 Shorthand for accept/update/remove.  Applies to the current section.  Your options:
 1. Accept this section as is.
 1. Update this section to meet your needs.
