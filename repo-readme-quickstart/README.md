@@ -5,8 +5,6 @@ This document assumes that you have already determined that you want to use `tea
 ## How to get set up
 You'll want to copy the contents of the `initial-readme` directory to your new project directory.  Within the files, you'll need to replace certain things with your project-specific information. 
 
-From there, it makes sense to 
-
 ## Variables
 
 ###`$$REPO$$`
