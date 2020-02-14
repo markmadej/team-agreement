@@ -24,9 +24,7 @@ Labels let our teammates know the current status of a given Issue.  This is a co
 * ![#00FF00](https://placehold.it/15/00ff00/000000?text=+) `#00FF00` **In Progress** : This issue is actively being worked on.  
 * ![#FF9933](https://placehold.it/15/ff9933/000000?text=+) `#FF9933` **Ready For Review** : This issue has a PR that is ready for review. 
 * ![#FF3399](https://placehold.it/15/ff3399/000000?text=+) `#FF3399` **Not Critical Path** : This issue may be important in the future, but it is not in the critical path for now.  Prioritize other issues if possible.
-
-Note - we originally had a label for `Closed` but I didn't think it made sense to keep this since you can just close an issue.
  
 ### Markdown
 $$AUR$$
-[Markdown](https://www.markdownguide.org/basic-syntax/) is the current standard for documentation across all repos when possible. 
+[Markdown](https://www.markdownguide.org/basic-syntax/) is the current standard for documentation in this repo.
