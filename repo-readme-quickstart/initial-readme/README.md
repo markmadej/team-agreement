@@ -10,6 +10,17 @@
 
 This repo contains a set of rules that the team finds important enough to discuss and adhere to.  This will include guidelines on process (how issues are created, what steps they flow through, etc).  There may be some technology-specific things, there will be more general things.  Whatever the team finds to be relevant and important will be included within this repo.  Anything defined in this repo should welcome a challenge or question from a team member, and anything can be changed via PR.  
 
+## Caveats for small teams
+$$AUR$$
+With a single or very small number of engineers working in these repos, we should strive to make the process as friction-free as possible.  There may be steps we can take out of the process that provide good value with minimum risk (especially for systems that are not in production).  This section contains those proposed rule modifications.
+
+WARNING : In most cases (or all cases if you prefer), it's better to just follow the standard process.  These rules are not recommendations.  They're giving you the ability to skip some redundant steps when it's clear that they don't add value.
+1. Labels (see next section) are unnecessary if you're working on something that you:
+    * Are confident you will complete during your current work session
+    * Don't think they will add value
+1. Go ahead and commit directly to master for non-controversial documentation changes.  
+    * However, please add a short commit note that you specifically thought about this and didn't think it was necessary.
+
 ## Github Issues, and labels to help track our progress
 $$AUR$$
 We will use Github Issues to track ideas and things we are working on.  It's free, it's integrated into Github, it's simple.  
