@@ -3,11 +3,11 @@
 This document assumes that you have already determined that you want to use `team-agreement` as a starting point for your project.  Thank you for giving this a try!  Check out the main README if you aren't yet sure and want to learn more.  
 
 ## How to get set up
-You'll want to copy the contents of the `initial-readme` directory to your new project directory.  Within the files, you'll need to replace certain things with your project-specific information. 
+You'll want to copy the contents of [the `initial-readme` directory](https://github.com/markmadej/team-agreement/tree/master/repo-readme-quickstart/initial-readme) to your new project directory.  Within the files, you'll need to replace certain things with your project-specific information. 
 
 ## Variables
 
-###`$$REPO$$`
+### `$$REPO$$`
 Your full Github repo URL, ie. `https://github.com/markmadej/team-agreement`
 
 ### `$$REPLACE$$`
